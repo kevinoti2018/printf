@@ -5,11 +5,11 @@
 /**
  * main - Entry point
  *
- * Return: Always 0
+ * Return: Always 0 on success
  */
 int main(void)
 {
-    int len;
+    int len; /*variable declarations*/
     int len2;
     unsigned int ui;
     void *addr;
